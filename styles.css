@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(133, 133, 212);
+    font-family:'Quicksand', sans-serif
+}
+h1 {
+    color: rgb(24, 1, 43);
+    text-align: center;
+    border: 2px dashed rgb(146, 34, 238);
+    border-radius: 50px;
+    background-color: rgb(175, 172, 228);
+
+}
+.Friend {
+    background-color: rgb(175, 172, 228);
+
+}
+h3 {
+    text-transform: uppercase;
+}
